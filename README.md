@@ -1,4 +1,8 @@
 ### Hi there 👋
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mithilsalunkhe/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mithilsalunkhe/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mithilsalunkhe/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mithilsalunkhe/discussion)
 
 <!--
 **king398/king398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
