@@ -2,10 +2,18 @@
 This is my kaggle profile stats. Enjoy 
 
 Silver medal in G2Net Gravitational Wave Detection and Kaggle discussion Expert. https://www.kaggle.com/mithilsalunkhe
+
+
+
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mithilsalunkhe/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mithilsalunkhe/dataset)
 ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mithilsalunkhe/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mithilsalunkhe/discussion)
+
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=king389)](https://github.com/king389/github-readme-stats)
 
 <!--
 **king398/king398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
