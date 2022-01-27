@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is my kaggle profile stats. Enjoy 
 
-Silver medal in G2Net Gravitational Wave Detection and Kaggle discussion Expert. https://www.kaggle.com/mithilsalunkhe
+3x kaggle expert. Silver in G2net and Petfinder Comp  https://www.kaggle.com/mithilsalunkhe
 
 
 
