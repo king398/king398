@@ -14,6 +14,7 @@ Silver medal in G2Net Gravitational Wave Detection and Kaggle discussion Expert.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=king398)](https://github.com/king398/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=king398)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **king398/king398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
