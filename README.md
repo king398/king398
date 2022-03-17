@@ -7,7 +7,6 @@ This is my kaggle profile stats. Enjoy
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mithilsalunkhe/competition)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mithilsalunkhe/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mithilsalunkhe/notebook)
 ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mithilsalunkhe/discussion)
 
 
