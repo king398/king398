@@ -4,6 +4,7 @@ This is my kaggle profile stats. Enjoy
 
 3x kaggle expert. Silver in G2net and Petfinder Comp  https://www.kaggle.com/mithilsalunkhe
 
+Achieved 2nd place solution in  Zindi [Boll worm Counting Challenge](https://zindi.africa/competitions/wadhwani-ai-bollworm-counting-challenge) Hosted by [Wadhwani AI](https://www.wadhwaniai.org/)
 
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mithilsalunkhe/competition)
