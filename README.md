@@ -45,9 +45,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I Work with the following Technologies 
-![](https://camo.githubusercontent.com/c895dcc921b7591d8133f091d69bce4de301c6834af8a201d6a25237c80524cf/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7079746f7263682f7079746f7263682d69636f6e2e737667)
-![](https://camo.githubusercontent.com/cb0738ef62409d4383697dba6b233e061ba1c9fad57e286c9232b7be97feb539/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e75782f6c696e75782d69636f6e2e737667)
-![](https://camo.githubusercontent.com/e9306bcaa5457a3bb58aa38c9f2fb71e856479bd7a3726204ca07412e45f667f/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d69636f6e2e737667)
+
 ![image](https://user-images.githubusercontent.com/58468909/208279974-1576547d-9dba-4738-b6d4-3cfe5220b0b6.png)
 
+![image](https://user-images.githubusercontent.com/58468909/208279983-c9f58287-ccee-413e-8473-09118c0d5849.png)
+
+![image](https://user-images.githubusercontent.com/58468909/208279991-94a9dfe7-606d-48ef-9613-43488e3ddaee.png)
+
+![image](https://user-images.githubusercontent.com/58468909/208279997-1b5a785b-58aa-47e0-a029-d08ae895b626.png)
 
