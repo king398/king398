@@ -46,11 +46,13 @@ Here are some ideas to get you started:
 -->
 I Work with the following Technologies 
 
-![image](https://user-images.githubusercontent.com/58468909/208279974-1576547d-9dba-4738-b6d4-3cfe5220b0b6.png)
+![image](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original-wordmark.svg)
 
-![image](https://user-images.githubusercontent.com/58468909/208279983-c9f58287-ccee-413e-8473-09118c0d5849.png)
+![image](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original-wordmark.svg)
 
-![image](https://user-images.githubusercontent.com/58468909/208279991-94a9dfe7-606d-48ef-9613-43488e3ddaee.png)
+![image](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytorch/pytorch-original.svg)
 
-![image](https://user-images.githubusercontent.com/58468909/208279997-1b5a785b-58aa-47e0-a029-d08ae895b626.png)
+![image](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg)
+
+![image](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg)
 
