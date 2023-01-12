@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=king398)
-This is my kaggle profile stats. Enjoy 
+This is my  profile stats. Enjoy 
 
 3x kaggle expert. Silver in G2net and Petfinder Comp  https://www.kaggle.com/mithilsalunkhe
 
