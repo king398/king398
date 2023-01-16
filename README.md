@@ -7,11 +7,6 @@ This is my  profile stats. Enjoy
 Achieved 2nd place solution in  Zindi [Boll worm Counting Challenge](https://zindi.africa/competitions/wadhwani-ai-bollworm-counting-challenge) Hosted by [Wadhwani AI](https://www.wadhwaniai.org/)
 
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mithilsalunkhe/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mithilsalunkhe/dataset)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/mithilsalunkhe/discussion)
-
-
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=king398)](https://github.com/king398/github-readme-stats)
