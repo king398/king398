@@ -1,11 +1,12 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=king398)
 This is my  profile stats. Enjoy 
+ 
+Achievements 
+### 1) 1st Place in the AI/ML track in Indian Army Hackathoan [SAINYA RANAKSHETRAM 2.0](https://www.sainya-ranakshetram.in/)
+### 2) Achieved 2nd place solution in  Zindi [Boll worm Counting Challenge](https://zindi.africa/competitions/wadhwani-ai-bollworm-counting-challenge) Hosted by [Wadhwani AI](https://www.wadhwaniai.org/)
 
-3x kaggle expert. Silver in G2net and Petfinder Comp  https://www.kaggle.com/mithilsalunkhe
-
-Achieved 2nd place solution in  Zindi [Boll worm Counting Challenge](https://zindi.africa/competitions/wadhwani-ai-bollworm-counting-challenge) Hosted by [Wadhwani AI](https://www.wadhwaniai.org/)
-
+### 3) 3x kaggle expert. Silver in G2net and Petfinder Comp  https://www.kaggle.com/mithilsalunkhe
 
 
 
@@ -50,4 +51,6 @@ I Work with the following Technologies
 ![image](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg)
 
 ![image](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg)
+
+
 
