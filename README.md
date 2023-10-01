@@ -3,10 +3,10 @@
 This is my  profile stats. Enjoy 
  
 Achievements 
-### 1) 1st Place in the AI/ML track in Indian Army Hackathoan [SAINYA RANAKSHETRAM 2.0](https://www.sainya-ranakshetram.in/)
+### 1) 1st Place in the AI/ML track in Indian Army Hackathon [SAINYA RANAKSHETRAM 2.0](https://www.sainya-ranakshetram.in/)
 ### 2) Achieved 2nd place solution in  Zindi [Boll worm Counting Challenge](https://zindi.africa/competitions/wadhwani-ai-bollworm-counting-challenge) Hosted by [Wadhwani AI](https://www.wadhwaniai.org/)
-
-### 3) 3x kaggle expert. Silver in G2net and Petfinder Comp  https://www.kaggle.com/mithilsalunkhe
+### 3) 3rd place in the Trustti.io [AllergenChip Challenge](https://github.com/Trustii-team/AllergenChip) 
+### 4) 3x kaggle expert. Silver in G2net and Petfinder Comp  https://www.kaggle.com/mithilsalunkhe
 
 
 
