@@ -18,7 +18,7 @@ Achievements
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=king398)](https://github.com/king398/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=king398&hide=html)](https://github.com/king398/github-readme-stats)
 
 
 
